@@ -1,12 +1,33 @@
-# React + Vite
+# ✅ Smart To-Do Manager (React + Tailwind CSS + Firebase)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to **Smart To-Do Manager** – a modern, responsive, and feature-rich task management app designed to help users stay productive by managing daily tasks with ease. Built using **React**, **Tailwind CSS**, and **Firebase**, this application supports seamless **CRUD** operations, real-time updates, and persistent data handling through both **localStorage** and cloud-based services.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🧰 Tech Stack
 
-## Expanding the ESLint configuration
+- **Languages**: JavaScript (ES6+), HTML, CSS
+- **Frontend Framework**: React.js (with Vite or Create React App)
+- **Styling**: Tailwind CSS
+- **State Management**: useState, useEffect, Context API
+- **Backend / Persistence**:
+  - Option 1: `localStorage`
+  - Option 2: `Firebase Realtime Database` / `Firestore`
+- **Deployment**: GitHub Pages / Firebase Hosting
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🚀 Features
+
+- 📝 **Create, Read, Update, Delete (CRUD)** tasks
+- 🏷️ **Priority tagging** (High, Medium, Low)
+- 🕒 **Deadline tracking** with real-time updates
+- 🔍 **Task filtering** by status or priority
+- 📱 **Responsive UI** for mobile and desktop
+- 💾 **Persistent storage** using localStorage or Firebase
+- 🧩 **Modular and component-based architecture**
+
+---
+
+## 🧭 Project Structure (Client)
+
